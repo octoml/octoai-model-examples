@@ -1,0 +1,4 @@
+Pillow>=6.2.1
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.0.1+cu118
+clip_interrogator==0.6.0
