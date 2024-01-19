@@ -31,7 +31,7 @@ export OCTOAI_API_TOKEN=<your key here>
 export CLIP_ENDPOINT_URL=<your clip endpoint url here>
 ```
 
-If you're not sure where to get those from, it will be explained in great detail over in the notebook guide: https://colab.research.google.com/drive/1VRQ_GbDXTbSFe0TGA-FT-xpA0a7kMpWl#scrollTo=Tcmf0XR56Gtj
+If you're not sure where to get those from, it will be explained in great detail over in the notebook guide: https://colab.research.google.com/drive/1VRQ_GbDXTbSFe0TGA-FT-xpA0a7kMpWl?usp=sharing
 
 Now that you've set these environment variables, go ahead and run the app with:
 ```bash
